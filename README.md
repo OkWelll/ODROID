@@ -1,0 +1,2 @@
+# ODROID
+ODROID based logger
